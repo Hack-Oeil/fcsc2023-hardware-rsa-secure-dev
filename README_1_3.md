@@ -24,6 +24,20 @@ Origine : [RSA Secure Dev 1/3](https://hackropole.fr/fr/challenges/hardware/fcsc
 
 -----------
 
+## Connectez vous en WEBSSH
+> http://localhost
+
+#### tentez 
+> nc rsa-secure-dev.cyrhades.fr:4000
+
+-----------
+
+## Ou directement avec netcat
+> nc localhost:4000
+
+
+-----------
+
 ## Installation manuel
 Vous n'utilisez pas l'application **les CTFs de Cyrhades** ? C'est dommage !
 Mais voici comment installer ce CTF manuellement :
