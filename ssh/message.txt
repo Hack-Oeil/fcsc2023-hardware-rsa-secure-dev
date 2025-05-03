@@ -11,6 +11,6 @@ Bienvenue sur le serveur SSH de Cyrhades
 
 Utilisez netcat pour accéder au challenge sur le serveur rsa-secure-dev.cyrhades.fr!
 
-*****:~$ nc rsa-secure-dev.cyrhades.fr:4000
+*****:~$ nc rsa-secure-dev.cyrhades.fr 4000
 
 Bonne chance !

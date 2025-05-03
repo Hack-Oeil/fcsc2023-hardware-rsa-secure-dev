@@ -29,12 +29,12 @@ Origine : [RSA Secure Dev 3/3](https://hackropole.fr/fr/challenges/hardware/fcsc
 > http://localhost
 
 #### tentez 
-> nc rsa-secure-dev.cyrhades.fr:4000
+> nc rsa-secure-dev.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
